@@ -1,0 +1,144 @@
+# site name
+prefixName: いちのせ
+siteName: にゃー
+# favicon and site master avatar
+favicon: /images/favicon.png
+avatar: https://cdn.jsdelivr.net/gh/imouup/pico/picavatar.png
+url: https://mouup.top
+description: Can u see me?
+cdn: 
+pjax: 1
+# 1开启
+mathjax: 1
+
+notice: 
+lazyloadImg: https://cdn.jsdelivr.net/gh/imouup/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+
+menus:
+  首页: { path: /, fa: fa-fort-awesome faa-shake }
+  归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
+    技术: {path: /categories/技术/, fa: fa-code }, 
+    生活: {path: /categories/生活/, fa: fa-file-text-o }, 
+    资源: {path: /categories/资源/, fa: fa-cloud-download }, 
+    随想: {path: /categories/随想/, fa: fa-commenting-o },
+    转载: {path: /categories/转载/, fa: fa-book }
+  } }
+  list: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
+    书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
+    番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    歌单: {path: /music/, fa: fa-headphones },
+    图集: {path: /tags/图集/, fa: fa-photo }
+  } }
+  留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
+  基（姬）友: { path: /links/, fa: fa-link faa-shake }
+  我？: {path: /about/, fa: fa-meetup, submenus: { 
+    关于: { path: /, fa: fa-leaf faa-wrench  },
+    赞赏: { path: /donate/, fa: fa-heart faa-pulse },
+    主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
+    Lab: {path: /lab/, fa: fa-cogs },
+  } }
+  #客户端: { path: /client/, fa: fa-android faa-vertical }
+  
+
+
+# Home page sort type: -1: newer first，1: older first.
+homePageSortType: -1
+# Home page article shown number)
+homeArticleShown: 10
+# 背景图片 更好的修改
+bg:
+  - https://api.flymc.cc/cover.php
+  - https://cdn.jsdelivr.net/gh/imouup/pico/picSnow Mile93197348_p0.jpg
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140235062_iOS.jpg
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140150163_iOS.jpg
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20210727_114955586_iOS.jpg
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140531254_iOS.png
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_134436528_iOS.png
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140132187_iOS.png
+  - https://cdn.jsdelivr.net/gh/imouup/pico/picnya-n94819771_p0.png
+# 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
+bgclass: 
+
+# startdash url, title, desc img
+startdash:
+  - {url: https://github.com/imouup, title: Github , desc: my github, img: https://cdn.jsdelivr.net/gh/imouup/pic/0.jpg}
+  - {url: https://space.bilibili.com/438518095, title: Bilibili, desc: up的b站账号, img: https://cdn.jsdelivr.net/gh/imouup/pic/20200717_023317282_iOS.jpg}
+  - {url: https://www.zhihu.com/people/gui-ling-zhe-92, title: 知乎, desc: 知乎, img: https://cdn.jsdelivr.net/gh/imouup/pic/20200505_102236910_iOS 1.jpg}
+
+
+
+# your site build time or founded date
+siteBuildingTime: 27/01/2021
+
+#social  url, img PC端配置
+social:
+  github: {url: http://github.com/imouup, img: https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/img/social/github.png}
+  #sina: {url: http://weibo.com/<username>?is_all=1, img: /img/social/sina.png}
+  #wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
+  zhihu: {url: https://www.zhihu.com/people/gui-ling-zhe-92, img: https://cdn.jsdelivr.net/gh/imouup/pic/知乎.png}
+  email: {url: iznyaku@outlook.com, img: https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/img/social/email.svg}
+  Twitter: {url: https://twitter.com/iamMouup, img: https://cdn.jsdelivr.net/gh/imouup/pic/推特.png}
+  telegram: {url: https://t.me/izNyaku, img: https://cdn.jsdelivr.net/gh/imouup/pico/pictelegram.png}
+  bilibili: {url: https://space.bilibili.com/438518095, img: https://cdn.jsdelivr.net/gh/imouup/pic/bilibili-line.png}
+  #wechat: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
+  #wechat2: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
+
+#social  url, img 移动端配置
+msocial:
+  github: {url: http://github.com/imouup, fa: fa-github, color: 333}
+  #weibo: {url: http://weibo.com/<username>?is_all=1, fa: fa-weibo, color: dd4b39}
+  #qq: {url: https://wpa.qq.com/msgrd?v=3&uin=<qq number>site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+
+donate:
+  #paypal: https://www.paypal.me/<username>
+  alipay: https://cdn.jsdelivr.net/gh/imouup/pico/picalipay.jpg
+  wechat: https://cdn.jsdelivr.net/gh/imouup/pico/picwechatpay.jpg
+  #wechatSQ: /img/custom/donate/
+
+
+movies:
+  url: https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9pYW1zd2x4LW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2lhbXN3bHhfaWFtc3dseF9vbm1pY3Jvc29mdF9jb20vRWFPeUtmQ0dRUmxEcThqUkVKS1FkeThCOVh5djhUNVZTWl9va2tZdFhWQWNXUT9lPXBkUTB4SQ==.mp4
+  # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
+  name: nya.mp4
+
+aplayer: 
+  id: 5484942041
+  server: netease
+  type: playlist
+  fixed: true
+  autoplay: false
+  loop: all
+  order: random
+  preload: auto
+  volume: 0.7
+  mutex: true
+
+# Valine
+valine: false
+v_appId: iKXJinpG6tQvgt9RlQ9og31g-MdYXbMMI
+v_appKey: meMvgEKyT3cE0tLJGdSrSqrY
+
+# Waline
+waline:
+  enable: true
+  serverURL: https://waline-46nj6p395-imouup.vercel.app/
+  visitor: true #统计阅读量
+  comment_count: true #统计评论数
+  avatar: mp # Gravatar style : mp/identicon/monsterid/wavatar/retro/hide
+  guest_info: nick #,mail,link # custom comment header
+  pageSize: 20
+  placeholder: 来啊，快活啊！（Ctrl+Enter发送） # Comment Box placeholder
+  requiredFields: [ 'nick','mail' ] #设置必填项
+  background: https://cdn.jsdelivr.net/gh/imouup/pico/pic74841737 (1).gif #输入框提示动画
+  
+#不蒜子计数器
+busuanzi:
+  switch: true
+
+#每日一言
+hitokoto: true
+
+#全站灰白主题
+gray: false
+
+
