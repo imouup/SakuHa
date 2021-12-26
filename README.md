@@ -1,8 +1,6 @@
 # SakuHa
 ### 抱歉，你可能找到了你想要的hexo theme
-![效果（电脑）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc.png)
-![效果（手机）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHamobile.png)
-（背景画师:甘城なつき）</br>
+
 
 ### 关于这个主题</br>
 #### 首先，</br>
@@ -27,3 +25,7 @@
 （暂时想不到了...）</br>
 
 目前的实时效果：[我的blog](https://mouup.top)</br>
+
+![效果（电脑）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc.png)
+![效果（手机）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHamobile.png)
+（背景画师:甘城なつき）</br>
