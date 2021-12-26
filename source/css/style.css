@@ -6268,7 +6268,7 @@ button.botui-actions-buttons-button {
 .changeSkin .keys span {
     cursor:pointer
 }
-.changeSkin-gear {
+/*.changeSkin-gear {
     position:fixed;
     bottom:-999px;
     right:5px;
@@ -6280,6 +6280,21 @@ button.botui-actions-buttons-button {
     padding:10px 10px;
     cursor:pointer;
     border-radius:10px 10px 0 0
+}*/
+@media (min-width: 768px){
+    .changeSkin-gear {
+        position:fixed;
+        bottom:-999px;
+        right:5px;
+        width:auto;
+        height:auto;
+        z-index:99;
+        visibility:hidden; 
+        white-space:nowrap;
+        padding:10px 10px;
+        cursor:pointer;
+        border-radius:10px 10px 0 0
+      }
 }
 .changeSkin .keys {
     position:relative;
@@ -7489,9 +7504,9 @@ to {
     transition-property:transform,background;
     transition-duration:.3s,.3s
 }
-.skin-menu.show {
+/*.skin-menu.show {
     transform:scaleX(1)
-}
+}*/
 .skin-menu::after {
     content:"";
     position:absolute;
@@ -7835,4 +7850,7 @@ td.hljs-ln-numbers {
 
 @media(max-width:1200px) {
     .toc {display: none;}
+}
+@media (min-width: 768px){
+    .skin-menu.show {transform:scaleX(1)}
 }
