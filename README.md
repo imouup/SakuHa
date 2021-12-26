@@ -1,6 +1,7 @@
 # SakuHa
 ### 抱歉，你可能找到了你想要的hexo theme
 
+![smile](https://cdn.jsdelivr.net/gh/imouup/pico/picQQ20211226154916.jpg)
 
 ### 关于这个主题</br>
 #### 首先，</br>
