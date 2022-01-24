@@ -3875,12 +3875,13 @@ li.feature-2 {
     right:0;
     z-index:3;
     background-attachment:fixed
+    /*text-align:center*/
 }
 .headertop.filter-undertint::before {
-    background-color:rgba(255,255,255,.3)
+    background-color:rgba(235, 235, 235, 0.897)
 }
 .headertop.filter-dim::before {
-    background-color:rgba(0,0,0,.3)
+    background-color:rgba(226, 226, 226, 0.87)
 }
 .headertop.filter-grid::before {
     background-image:url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/grid.png)
@@ -4089,6 +4090,12 @@ li.feature-2 {
     box-sizing: initial;
     white-space: nowrap;
 }
+@media (max-width: 768px){
+    .header-infosf {
+        transform:scale(0.75);
+}
+}
+
 /*.header-info:before {
     content:"";
     position:absolute;
@@ -6383,11 +6390,23 @@ to {
 .block {
     display:block
 }
-.center-text {
-    margin: auto;
-    font-family: 'Ubuntu',sans-serif;
-    font-size: 80px;
-    text-transform: uppercase;
+
+@media (min-width: 768px){
+    .center-textpc {
+        margin: auto;
+        font-family: 'Ubuntu',sans-serif;
+        font-size: 80px;
+        text-transform: uppercase;
+    }
+}
+
+@media (max-width: 768px){
+    .center-textmb {
+        margin: auto;
+        font-family: 'Ubuntu',sans-serif;
+        font-size: 60px;
+        text-transform: uppercase;
+    }
 }
 .glitch {
     position:relative;

@@ -53,7 +53,7 @@ bg:
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140150163_iOS.jpg
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic20210727_114955586_iOS.jpg
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140531254_iOS.png
-  - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_134436528_iOS.png
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic92564859_p0.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140132187_iOS.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/picnya-n94819771_p0.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic310948_bandage_breasts_candy_cleavag.jpg
@@ -77,7 +77,7 @@ social:
   #sina: {url: http://weibo.com/<username>?is_all=1, img: /img/social/sina.png}
   #wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
   zhihu: {url: https://www.zhihu.com/people/gui-ling-zhe-92, img: https://cdn.jsdelivr.net/gh/imouup/pic/知乎.png}
-  email: {url: iznyaku@outlook.com, img: https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/img/social/email.svg}
+  email: {url: mailto:iznyaku@outlook.com, img: https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/img/social/email.svg}
   Twitter: {url: https://twitter.com/iamMouup, img: https://cdn.jsdelivr.net/gh/imouup/pic/推特.png}
   telegram: {url: https://t.me/izNyaku, img: https://cdn.jsdelivr.net/gh/imouup/pico/pictelegram.png}
   bilibili: {url: https://space.bilibili.com/438518095, img: https://cdn.jsdelivr.net/gh/imouup/pic/bilibili-line.png}
@@ -98,7 +98,7 @@ donate:
 
 
 movies:
-  url: https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9pYW1zd2x4LW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2lhbXN3bHhfaWFtc3dseF9vbm1pY3Jvc29mdF9jb20vRWFPeUtmQ0dRUmxEcThqUkVKS1FkeThCOVh5djhUNVZTWl9va2tZdFhWQWNXUT9lPXBkUTB4SQ==.mp4
+  url: https://mfvideo.mouup.top/%E6%AD%A4%E8%A7%86%E9%A2%91%E8%83%BD%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84%E8%A7%86%E5%8A%9B%EF%BC%81%E7%9C%8B%E5%AE%8C%E5%90%8E%E4%B8%96%E7%95%8C%E9%83%BD%E6%83%8A%E5%91%86%E4%BA%86%EF%BC%81.241520427.mp4
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
   name: nya.mp4
 
