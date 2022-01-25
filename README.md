@@ -40,7 +40,7 @@
 
 目前的实时效果：[我的blog](https://mouup.top)</br>
 
-<img src="https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc-SurfaceBook.png" width="900px" align=center alt="这是张2k图">
+<img src="https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc-SurfaceBook.png" width="900px" align=center title="这是张2k图">
 （背景画师:甘城なつき）</br>
 
 
