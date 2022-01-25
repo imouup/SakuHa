@@ -25,7 +25,7 @@ menus:
   } }
   list: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
     书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
-    番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    番组: {path: /bangumis/, fa: fa-film faa-vertical }, 
     歌单: {path: /music/, fa: fa-headphones },
     图集: {path: /tags/图集/, fa: fa-photo }
   } }
@@ -56,6 +56,7 @@ bg:
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic92564859_p0.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic20211127_140132187_iOS.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/picnya-n94819771_p0.png
+  - https://cdn.jsdelivr.net/gh/imouup/pico/pic✿幻海花火✿61351818_p0.png
   - https://cdn.jsdelivr.net/gh/imouup/pico/pic310948_bandage_breasts_candy_cleavag.jpg
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: 
@@ -98,9 +99,11 @@ donate:
 
 
 movies:
-  url: https://mfvideo.mouup.top/%E6%AD%A4%E8%A7%86%E9%A2%91%E8%83%BD%E6%8B%AF%E6%95%91%E4%BD%A0%E7%9A%84%E8%A7%86%E5%8A%9B%EF%BC%81%E7%9C%8B%E5%AE%8C%E5%90%8E%E4%B8%96%E7%95%8C%E9%83%BD%E6%83%8A%E5%91%86%E4%BA%86%EF%BC%81.241520427.mp4
+  url: https://iamswlx-my.sharepoint.com/personal/mfuns_iamswlx_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=51300f43-a208-4ca9-b1ca-d4c53db97961&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvaWFtc3dseC1teS5zaGFyZXBvaW50LmNvbUAyYmE5YzYwOC1mMzEwLTRjOTItODNmOC1kMjY2MzZmMDY2MmYiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjQzMTA0NzQ1IiwiZXhwIjoiMTY0MzEwODM0NSIsImVuZHBvaW50dXJsIjoiMFBKU1NqZCthZnRac3hUa1NqODN3Vko2ZTZKMGcycE9vNUsrZ05oNFFHVT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE2MCIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiTWpaaU9EQm1ZekV0TjJWallTMDBaV0psTFdKa1pEUXRNelUxTUdVNFpHVXpNR05pIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik9XRTFaR1JrWWprdE9ESmhNaTAwTXpFMkxXRXpNMlV0TVdFeE1qVTJaV1V5TUdRMyIsImFwcF9kaXNwbGF5bmFtZSI6Im1tIiwiZmFtaWx5X25hbWUiOiJtZnVucyIsImFwcGlkIjoiZjkyMDkyZDItNjk3MC00Njg1LWFjMjQtNWRhZDI0YzNhNmJhIiwidGlkIjoiMmJhOWM2MDgtZjMxMC00YzkyLTgzZjgtZDI2NjM2ZjA2NjJmIiwidXBuIjoibWZ1bnNAaWFtc3dseC5vbm1pY3Jvc29mdC5jb20iLCJwdWlkIjoiMTAwMzIwMDE3NDFFNDA5MCIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAxNzQxZTQwOTBAbGl2ZS5jb20iLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxzaXRlcy53cml0ZSIsInR0IjoiMiIsInVzZVBlcnNpc3RlbnRDb29raWUiOm51bGwsImlwYWRkciI6IjQwLjEyNi4yMy4zNiJ9.TjY2enJDOVlFTWxwdytkQ2w4eWdsclFTYmNlMXJJa0orMTJ2R2wxZTcyMD0&ApiVersion=2.0
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
-  name: nya.mp4
+  name: 超燃神曲《Wake》让你重拾二次元的美好
+   
+  
 
 aplayer: 
   id: 5484942041
