@@ -1,8 +1,14 @@
-# SakuHa
+ 
+ <div align=center><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picsakuha.png" width="400px">
+ 
 ### 抱歉，你可能找到了你想要的hexo theme
 
 ![smile](https://cdn.jsdelivr.net/gh/imouup/pico/picQQ20211226154916.jpg)
 
+</div>
+</br>
+</br>
+</br>
 
 ### :cherry_blossom:食用方式 
 1.git clone本项目或者下载压缩包并解压本项目到hexo的themes目录</br>
@@ -34,6 +40,7 @@
 
 目前的实时效果：[我的blog](https://mouup.top)</br>
 
-![效果（电脑）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc.png)
-![效果（手机）](https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHamobile.png)
+<img src="https://cdn.jsdelivr.net/gh/imouup/pico/picSakuHapc-SurfaceBook.png" width="900px" align=center>
 （背景画师:甘城なつき）</br>
+
+
